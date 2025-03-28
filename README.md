@@ -16,4 +16,4 @@ contenidos de esta materia <br>
 ## Foto Personal
 ___
 
-![Foto mia]()
+![Foto mia](https://github.com/pdepjm/2025-tp0-presentacion-Santax16/blob/main/WhatsApp%20Image%202025-03-28%20at%201.14.18%20PM.jpeg)
